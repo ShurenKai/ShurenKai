@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShurenKai
 - 👀 I’m interested in anime, manga, games, cooking with friends, long solo walks, finding new things to explore
-- 🌱 I’m currently learning Japanese Kanji, Web development, cooking alone
+- 🌱 I’m currently learning Japanese Kanji and Katakana, Python, and AWS Cloud essentials
 - 💞️ I’m looking to collaborate on almost anything!
-- 📫 How to reach me...
+- 📫 You can reach me at cassandralenchen@gmail.com
 
 <!---
 ShurenKai/ShurenKai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
