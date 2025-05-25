@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShurenKai
 - 👀 I’m interested in anime, manga, games, cooking with friends, long solo walks, finding new things to explore
-- 🌱 I’m currently learning Python, MUI, and AWS Cloud essentials
+- 🌱 I’m currently learning how to pick myself up again T_T
 - 💞️ I’m looking to collaborate on almost anything!
 - 📫 You can reach me at cassandralenchen@gmail.com
 
